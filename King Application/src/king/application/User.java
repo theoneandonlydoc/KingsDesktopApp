@@ -19,7 +19,7 @@ public class User {
     public void User(String name,String username,String password){
         this.password = password;
         this.name = name;
-        this. username = username;
+        this.username = username;
         xp=0;
         level=1;
         next_level =100;
